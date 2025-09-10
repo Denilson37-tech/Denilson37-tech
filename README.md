@@ -22,7 +22,12 @@ Currently building my portfolio through self-practice projects and open-source-s
 - [Stripe Payment API Docs] – Structured developer guide covering authentication, endpoints, and sample requests.  
 - [Bank Aggregator API] – Self-practice project simulating fintech API documentation.  
 - [Postman Collections] – Mini and complex onboarding flows documented with examples.  
-- [Hashnode Blogs] – 9+ blog posts simplifying API concepts and documentation best practices.  
+- [Hashnode Blogs] – 9+ blog posts simplifying API concepts and documentation best practices.
+- https://docsmadesimple.hashnode.dev/how-i-documented-an-ekyc-identity-verification-api-with-postman-as-a-junior-technical-writer
+- https://docsmadesimple.hashnode.dev/bank-aggregator-api-api-documentation-project
+- https://docsmadesimple.hashnode.dev/from-neobanks-to-wero-how-apis-drive-europes-fintech
+- https://docsmadesimple.hashnode.dev/how-to-document-api-authentication-postman-examples-for-fintech-and-saas
+- 
 - [GitHub Repositories](https://github.com/Denilson37-tech) – Hosting active documentation projects in Markdown.  
 
 🎓 Education & Certifications  
