@@ -1,6 +1,6 @@
  Chidiebere Denilson Ogbonnaya  
 📞 +234 906 006 0963 | ✉️ hsespecialist74@gmail.com  
-🌐 [GitHub](https://github.com/Denilson37-tech) | ✍️ [Hashnode Blogs](https://hashnode.com/@mrdenilson)
+(https://github.com/Denilson37-tech) | (https://hashnode.com/@mrdenilson)
 
  About Me  
 I’m a Junior API Documentation Writer passionate about making APIs easier to understand and use. I create developer-focused documentation, tutorials, and Postman collections** that simplify onboarding and improve developer experience (DX).  
