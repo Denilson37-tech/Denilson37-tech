@@ -1,19 +1,23 @@
  Chidiebere Denilson Ogbonnaya  
 📞 +234 906 006 0963 | ✉️ hsespecialist74@gmail.com  
 (https://github.com/Denilson37-tech) | (https://hashnode.com/@mrdenilson)
+(https://www.linkedin.com/in/chidiebere-o-067b71b0)
 
  About Me  
-I’m a Junior API Documentation Writer passionate about making APIs easier to understand and use. I create developer-focused documentation, tutorials, and Postman collections** that simplify onboarding and improve developer experience (DX).  
+ 
+I’m an aspiring API Documentation Writer focused on making complex APIs easy for developers to use.
+I create clear, structured, and developer-friendly documentation using tools like Postman, Swagger/OpenAPI, and Markdown.
 
-Currently building my portfolio through self-practice projects and open-source-style documentation.
+What I Do
 
- 🛠 Core Skills  
-- API Documentation (REST APIs, Postman, Swagger/OpenAPI)  
-- Technical Writing (README files, developer guides, tutorials, blog posts)  
-- Markdown & GitHub workflows  
-- Writing for developer onboarding and DX  
-- API testing with Postman  
-- Version control with Git/GitHub  
+Write Quickstart guides for fast developer onboarding.
+
+Create Postman collections for testing and learning APIs.
+
+Document endpoints, requests, responses, and error handling.
+
+Explain fintech and SaaS APIs in plain, easy-to-read language.
+  
 
  ⚙️ Tech Stack  
 `Postman` · `GitHub` · `Markdown` · `Swagger/OpenAPI` · `REST APIs` · `Google Docs` · `Notion` · `VS Code`
