@@ -22,16 +22,17 @@ Explain fintech and SaaS APIs in plain, easy-to-read language.
  ⚙️ Tech Stack  
 `Postman` · `GitHub` · `Markdown` · `Swagger/OpenAPI` · `REST APIs` · `Google Docs` · `Notion` · `VS Code`
 
-## 🚀 Projects & Practice Achievements  
+ Projects & Practice Achievements  
 - [Stripe Payment API Docs] – Structured developer guide covering authentication, endpoints, and sample requests.  
 - [Bank Aggregator API] – Self-practice project simulating fintech API documentation.  
 - [Postman Collections] – Mini and complex onboarding flows documented with examples.  
 - [Hashnode Blogs] – 9+ blog posts simplifying API concepts and documentation best practices.
 - https://docsmadesimple.hashnode.dev/how-i-documented-an-ekyc-identity-verification-api-with-postman-as-a-junior-technical-writer
 - https://docsmadesimple.hashnode.dev/bank-aggregator-api-api-documentation-project
--
-Swagger projects
--https://app.swaggerhub.com/apis/dAenayalakeenterprise/IdentiPay-Banking-Identity-API/1.0.0#/servers
+- 
+ Swagger projects
+
+- https://app.swaggerhub.com/apis/dAenayalakeenterprise/IdentiPay-Banking-Identity-API/1.0.0#/servers
 - 
 - [GitHub Repositories](https://github.com/Denilson37-tech) – Hosting active documentation projects in Markdown.  
 
