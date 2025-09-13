@@ -29,8 +29,9 @@ Explain fintech and SaaS APIs in plain, easy-to-read language.
 - [Hashnode Blogs] – 9+ blog posts simplifying API concepts and documentation best practices.
 - https://docsmadesimple.hashnode.dev/how-i-documented-an-ekyc-identity-verification-api-with-postman-as-a-junior-technical-writer
 - https://docsmadesimple.hashnode.dev/bank-aggregator-api-api-documentation-project
-- https://docsmadesimple.hashnode.dev/from-neobanks-to-wero-how-apis-drive-europes-fintech
-- https://docsmadesimple.hashnode.dev/how-to-document-api-authentication-postman-examples-for-fintech-and-saas
+-
+Swagger projects
+-https://app.swaggerhub.com/apis/dAenayalakeenterprise/IdentiPay-Banking-Identity-API/1.0.0#/servers
 - 
 - [GitHub Repositories](https://github.com/Denilson37-tech) – Hosting active documentation projects in Markdown.  
 
