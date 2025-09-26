@@ -9,14 +9,25 @@ I am a motivated Junior Technical Support Specialist with hands-on experience in
 
 What I Do
 
-Write Quickstart guides for fast developer onboarding.
+Ticketing Systems
 
-Create Postman collections for testing and learning APIs.
+Zendesk, Freshdesk, or Zoho Desk.
 
-Document endpoints, requests, responses, and error handling.
+creating, escalating, and resolving tickets.
 
-Explain fintech and SaaS APIs in plain, easy-to-read language.
-  
+Knowledge Base / Documentation
+
+roubleshooting
+
+Debugged API failures (401/403/500 errors).
+
+Tested integrations (payment APIs, login systems).
+
+Replicated customer-reported issues.
+
+Monitoring & Alerts Basics
+
+basic log reading (server logs, Postman console).
 
  ⚙️ Tech Stack  
  
