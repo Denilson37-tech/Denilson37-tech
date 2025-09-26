@@ -5,8 +5,7 @@
 
  About Me  
  
-I’m an aspiring API Documentation Writer focused on making complex APIs easy for developers to use.
-I create clear, structured, and developer-friendly documentation using tools like Postman, Swagger/OpenAPI, and Markdown.
+I am a motivated Junior Technical Support Specialist with hands-on experience in API testing, troubleshooting, and documentation. Passionate about solving problems, supporting customers, and learning new tools to deliver reliable support in global remote technical environments.
 
 What I Do
 
@@ -20,7 +19,14 @@ Explain fintech and SaaS APIs in plain, easy-to-read language.
   
 
  ⚙️ Tech Stack  
-`Postman` · `GitHub` · `Markdown` · `Swagger/OpenAPI` · `REST APIs` · `Google Docs` · `Notion` · `VS Code`
+ 
+API Testing: Postman, Swagger
+
+Support Tools: Jira, Confluence, Zendesk (self-learning)
+
+Version Control: Git & GitHub
+
+Documentation & Writing: Hashnode, Knowledge Base Articles
 
  Projects & Practice Achievements  
 - [Stripe Payment API Docs] – Structured developer guide covering authentication, endpoints, and sample requests.  
