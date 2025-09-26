@@ -5,39 +5,24 @@
 
  About Me  
  
-I am a motivated Junior Technical Support Specialist with hands-on experience in API testing, troubleshooting, and documentation. Passionate about solving problems, supporting customers, and learning new tools to deliver reliable support in global remote technical environments.
+ Hi, I'm Denilson Chidiebere Ogbonnaya
 
-What I Do
+Junior Technical Support Specialist | API Troubleshooter | Remote-Ready
 
-Ticketing Systems
+I’m an entry-level technical support specialist passionate about helping users solve problems, troubleshooting APIs, and supporting SaaS and startup products. I bring strong problem-solving skills, excellent communication, and hands-on practice with support tools.
+                
 
-Zendesk, Freshdesk, or Zoho Desk.
+   Skills & Tools
+- Ticketing & Support: Jira, Zendesk, Confluence
+- API Troubleshooting: Postman, Swagger
+- Version Control: GitHub
+- Communication: Clear user documentation, incident reporting, knowledge base articles
 
-creating, escalating, and resolving tickets.
+  Projects
+  API Debugging with Postman– Tested endpoints, validated responses, and troubleshot failed requests.
+  Mock SaaS Support Tickets– Practiced ticket triaging, troubleshooting, and resolution steps.
+  Swagger Documentation Review– Analyzed APIs for clarity and accuracy in endpoint usage.
 
-Knowledge Base / Documentation
-
-roubleshooting
-
-Debugged API failures (401/403/500 errors).
-
-Tested integrations (payment APIs, login systems).
-
-Replicated customer-reported issues.
-
-Monitoring & Alerts Basics
-
-basic log reading (server logs, Postman console).
-
- ⚙️ Tech Stack  
- 
-API Testing: Postman, Swagger
-
-Support Tools: Jira, Confluence, Zendesk (self-learning)
-
-Version Control: Git & GitHub
-
-Documentation & Writing: Hashnode, Knowledge Base Articles
 
  Projects & Practice Achievements  
 - [Stripe Payment API Docs] – Structured developer guide covering authentication, endpoints, and sample requests.  
