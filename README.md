@@ -1,53 +1,37 @@
- Chidiebere Denilson Ogbonnaya  
-📞 +234 906 006 0963 | ✉️ hsespecialist74@gmail.com  
-(https://github.com/Denilson37-tech) | (https://hashnode.com/@mrdenilson)
-(https://www.linkedin.com/in/chidiebere-o-067b71b0)
+Hi, I’m Chidiebere Denilson Ogbonnaya
+Junior Cloud Security Engineer with hands-on experience in Azure identity and access security.
 
- About Me  
- 
- Hi, I'm Denilson Chidiebere Ogbonnaya
+I build practical security labs focused on Microsoft Entra ID, RBAC, managed identities, and secure cloud configurations.
 
-Junior Technical Support Specialist | API Troubleshooter | Remote-Ready
+My goal is to understand how identity is secured in real cloud environments and document security decisions clearly and accurately.
 
-I’m an entry-level technical support specialist passionate about helping users solve problems, troubleshooting APIs, and supporting SaaS and startup products. I bring strong problem-solving skills, excellent communication, and hands-on practice with support tools.
-                
+🔐 Focus Areas.
 
-   Skills & Tools
-- Ticketing & Support: Jira, Zendesk, Confluence
-- API Troubleshooting: Postman, Swagger
-- Version Control: GitHub
-- Communication: Clear user documentation, incident reporting, knowledge base articles
+Microsoft Azure fundamentals
+Microsoft Entra ID (Azure AD)
+Identity & Access Management (IAM)
+Role-Based Access Control (RBAC)
+User-Assigned Managed Identities
+Secure Azure resource configuration
 
-  Projects
-  API Debugging with Postman– Tested endpoints, validated responses, and troubleshot failed requests.
-  Mock SaaS Support Tickets– Practiced ticket triaging, troubleshooting, and resolution steps.
-  Swagger Documentation Review– Analyzed APIs for clarity and accuracy in endpoint usage.
+🧪 Hands-On Cloud Security Labs
 
+Securing Azure with User-Assigned Managed Identity (UAMI)
+Credential-less access between Azure resources using managed identities
+Azure Resource Manager Security Hardening
+Foundational lab covering RBAC cleanup, least privilege, and access governance
+➡️ See pinned repositories below for details.
 
- Projects & Practice Achievements  
-- [Stripe Payment API Docs] – Structured developer guide covering authentication, endpoints, and sample requests.  
-- [Bank Aggregator API] – Self-practice project simulating fintech API documentation.  
-- [Postman Collections] – Mini and complex onboarding flows documented with examples.  
-- [Hashnode Blogs] – 9+ blog posts simplifying API concepts and documentation best practices.
-- https://docsmadesimple.hashnode.dev/how-i-documented-an-ekyc-identity-verification-api-with-postman-as-a-junior-technical-writer
-- https://docsmadesimple.hashnode.dev/bank-aggregator-api-api-documentation-project
-- 
- Swagger projects
+🛠 Tools & Platforms
 
-- https://app.swaggerhub.com/apis/dAenayalakeenterprise/IdentiPay-Banking-Identity-API/1.0.0#/servers
-- 
-- [GitHub Repositories](https://github.com/Denilson37-tech) – Hosting active documentation projects in Markdown.  
-
-🎓 Education & Certifications  
-- B.A. Philosophy – Nnamdi Azikiwe University, Awka, Anambra State, Nigeria  
-- ISPON Certified– Safety Professional Certification  
-- Continuous learning in API Documentation, SaaS workflows, and Developer Experience  
-
-🌟 Strengths  
-✅ Strong technical communication  
-✅ Hands-on API documentation practice  
-✅ Beginner-friendly writing style for developers  
-✅ Quick learner, open to mentorship  
-✅ Motivated to grow in SaaS/API-focused teams  
-
-Currently available for remote internship/junior API Documentation Writer roles.
+Azure Portal
+GitHub
+Postman & Swagger (API and identity context)
+📚 Technical Writing & Documentation
+I document security labs, identity concepts, and cloud configurations in a clear, beginner-friendly way, making complex topics easier to understand for teams and reviewers.
+Blog: https://hashnode.com/@mrdenilson
+GitHub: https://github.com/Denilson37-tech
+🎯 What I’m Working Toward
+Junior Cloud Security Engineer roles
+Entry-level IAM / Azure Security positions
+Continuous hands-on learning through security labs
