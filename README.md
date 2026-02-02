@@ -29,9 +29,12 @@ GitHub
 Postman & Swagger (API and identity context)
 📚 Technical Writing & Documentation
 I document security labs, identity concepts, and cloud configurations in a clear, beginner-friendly way, making complex topics easier to understand for teams and reviewers.
+
 Blog: https://hashnode.com/@mrdenilson
 GitHub: https://github.com/Denilson37-tech
+
 🎯 What I’m Working Toward
+
 Junior Cloud Security Engineer roles
-Entry-level IAM / Azure Security positions
-Continuous hands-on learning through security labs
+Entry-level IAM / Azure Security positions.
+Continuous hands-on learning through security labs.
